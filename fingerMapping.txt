@@ -1,0 +1,11 @@
+const FINGERMAPPING = {
+  leftPinky : ['~', '`', '1', '!', '\t', 'Q', 'q', 'Caps', 'A', 'a', 'L-Shift', 'Z', 'z', 'L-Ctl', 'L-Win', 'L-Alt'],
+  leftRing : ['2', '@', 'W', 'w', 'S', 's', 'X', 'x'],
+  leftMiddle : ['3', '#', 'E', 'e', 'D', 'd', 'C', 'c'],
+  leftPointy : ['4', '$', '5', '%', 'R', 'r', 'T', 't', 'F', 'f', 'G', 'g', 'V', 'v', 'B', 'b'],
+  thumb : [' '],
+  rightPointy : ['6', '^', '7', '&', 'Y', 'y', 'U', 'u', 'H', 'h', 'J', 'j', 'N', 'n', 'M', 'm'],
+  rightMiddle : ['8', '*', 'I', 'i', 'K', 'k', '<', ','],
+  rightRing : ['9', '(', 'O', 'o', 'L', 'l', '>', '.'],
+  rightPinky : ['0', ')', '_', '-', '+', '=', 'Backspace', 'P', 'p', '{', '[', '}', ']', '|', '\\', ':', ';', '"', '\'', 'Enter', '?', '/', 'R-Shift', 'R-Alt', 'R-Win', 'RightMouseClick', 'R-Ctl']
+};
